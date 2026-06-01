@@ -26,6 +26,9 @@ Python, C, C++, JavaScript, SQL (Oracle)
 **Web Development:**  
 HTML5, CSS3, JavaScript (DOM, form validation, responsive design)
 
+**Frameworks**
+Express.js, Bootstrap
+
 **Tools & Platforms:**  
 Git, GitHub, Jira, Linux (CentOS), Visual Studio, VS Code, Visual Paradigm
 
