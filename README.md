@@ -32,8 +32,8 @@ I am a Computer Programming & Analysis student with hands-on experience in softw
 
 ## 📂 Featured Projects
 
-🧾 Dine-In Digital (C++ System)
-🚆 Train Yard Management System (C/C++ / Agile Team Project)
+🧾 Dine-In Digital (C++ System)  
+🚆 Train Yard Management System (C/C++ / Agile Team Project)  
 🌐 Travel Agency Website (HTML/CSS/JS)  
 
 ---
