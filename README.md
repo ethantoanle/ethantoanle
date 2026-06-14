@@ -3,15 +3,7 @@
 🎓 CS @ Seneca Polytechnic  
 📍 Toronto, Canada  
 
----
-
-## 🚀 About Me
-
-I am a Computer Programming & Analysis student with hands-on experience in software development, and digital systems design.
-
----
-
-## 🛠️ Technical Skills
+## Skills
 
 **Languages:**  
 <p align="left">
@@ -62,24 +54,14 @@ I am a Computer Programming & Analysis student with hands-on experience in softw
 - Agile / Scrum Development  
 - Testing & Debugging  
 
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 🧾 Dine-In Digital (C++ System)  
 🚆 Train Yard Management System (C/C++ / Agile Team Project)  
 🌐 Travel Agency Website (HTML/CSS/JS)  
 
----
-
-## 📊 What I'm Currently Learning
+## What I'm Currently Learning
 Jenkins, Docker, Kubernetes
 
----
-
-## 🤝 Let's Connect
-- 📧 Email: ethan.toanle@gmail.com
-
----
-
+## Let's Connect
 ⭐ Always open to collaboration, learning opportunities, and co-op roles in software development, and digital systems.
