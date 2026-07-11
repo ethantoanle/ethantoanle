@@ -4,9 +4,9 @@
 📍 Toronto, Canada  
 
 ## Featured Projects  
-[Ordering System (C++)](https://github.com/ethantoanle/RestaurantOrderingSystem)  
-Train Yard Management System (C/C++ / Agile Team Project)  
-Travel Agency Website (HTML/CSS/JS)
+🧾 **[DineInDigital]**(https://github.com/ethantoanle/RestaurantOrderingSystem)(C++) - an restaurant ordering system 
+🚆 **Train Yard Management System** (C/C++ / Agile Team Project)  
+🌐 **Travel Agency Website** (HTML/CSS/JS)
 
 ## Skills
 
