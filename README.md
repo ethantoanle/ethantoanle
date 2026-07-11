@@ -3,6 +3,11 @@
 🎓 CS @ Seneca Polytechnic  
 📍 Toronto, Canada  
 
+## Featured Projects  
+[Ordering System (C++)](https://github.com/ethantoanle/RestaurantOrderingSystem)  
+Train Yard Management System (C/C++ / Agile Team Project)  
+Travel Agency Website (HTML/CSS/JS)
+
 ## Skills
 
 **Languages:**  
@@ -45,20 +50,7 @@
   <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></a>
   <a href="https://www.visual-paradigm.com/"><img src="https://www.visual-paradigm.com/images/vp-logo.svg" width="30"/></a>
-</p>
-  
-**Core Areas:**  
-- Software Development (SDLC) 
-- Digital Systems Design  
-- Database Querying & Design  
-- Agile / Scrum Development  
-- Testing & Debugging  
-
-## Featured Projects
-
-🧾 Dine-In Digital (C++ System)  
-🚆 Train Yard Management System (C/C++ / Agile Team Project)  
-🌐 Travel Agency Website (HTML/CSS/JS)  
+</p> 
 
 ## What I'm Currently Learning
 Jenkins, Docker, Kubernetes
